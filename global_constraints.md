@@ -1,0 +1,1 @@
+ALLOWED LIBRARIES: numpy, pygame, random, math. FORBIDDEN: scipy (unless explicitly asked), pandas, multiprocessing (keep it single-threaded for now). Do not add logging overhead inside the main loop.
