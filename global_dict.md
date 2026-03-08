@@ -1,0 +1,1 @@
+The state is passed exactly as an instance of World. The matrices are world.nutrients, world.vegetation, world.agent_map. All are shape (W, H). DO NOT invent new variables.
